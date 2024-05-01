@@ -4,3 +4,5 @@ Gr1CC
 Hola
 Kevin Mantilla, Estefania Bedón, Andrés Suárez, Diego Pomboza, Alejandro Guerrero
 Git & Github
+Hola soy Kevin
+Hola soy cristo
