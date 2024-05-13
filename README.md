@@ -6,3 +6,5 @@ Kevin Mantilla, Estefania Bedón, Andrés Suárez, Diego Pomboza, Alejandro Guer
 Git & Github
 Hola soy Kevin
 
+Prueba en clase
+
