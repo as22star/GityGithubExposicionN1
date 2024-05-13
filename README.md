@@ -6,4 +6,5 @@ Kevin Mantilla, Estefania Bedón, Andrés Suárez, Diego Pomboza, Alejandro Guer
 Git & Github
 Hola soy Kevin
 Hola soy Mantilla
-Hola soy Alejandro
+Hola estefiii
+Hola amiguitos mios
